@@ -8,7 +8,7 @@ CHECKLIST
 - Crear Vehiculo - Hecho
 - Relacion VehiculoPersona - Hecho
 - Crear Coche - Hecho
-- Crear subtipos de coche
+- Crear subtipos de coche - Hecho
 - Crear moto y subtipos
 - Crear Camion
 - Herencias y relacione UML

@@ -69,6 +69,27 @@ class Coche {
   -Traccion traccion
 }
 
+' === Subtipos de Coche ===
+class Sedan {
+  -double espacioInterior
+  -NivelConfort nivelConfort
+}
+
+class SUV {
+  -boolean capacidadOffroad
+  -double alturaLibreSuelo
+}
+
+class Deportivo {
+  -double aceleracion0a100
+  -int potenciaCV
+  -boolean tieneModoPista
+}
+
+Coche <|-- Sedan
+Coche <|-- SUV
+Coche <|-- Deportivo
+
 Vehiculo <|-- Coche
 
 Vehiculo ..|> Valorable
