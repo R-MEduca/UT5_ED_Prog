@@ -10,7 +10,7 @@ CHECKLIST
 - Crear Coche - Hecho
 - Crear subtipos de coche - Hecho
 - Crear moto y subtipos - Hecho
-- Crear Camion
+- Crear Camion - Hecho
 - Herencias y relacione UML
 - Generar .svg
 - Ponerlo en el README

@@ -103,6 +103,16 @@ class MotoDeportiva {
   -boolean tieneQuickShifter
 }
 
+' === Clase Camion ===
+class Camion {
+  -double capacidadCarga
+  -int numEjes
+  -double longitudRemolque
+  -int potenciaMotor
+}
+
+Vehiculo <|-- Camion
+
 Vehiculo <|-- Moto
 Moto <|-- Scooter
 Moto <|-- MotoDeportiva
