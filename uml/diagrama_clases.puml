@@ -61,6 +61,16 @@ abstract class Vehiculo {
   +String calcularRiesgo()
 }
 
+' === Clase Coche ===
+class Coche {
+  -int numPuertas
+  -TipoCombustible tipoCombustible
+  -int capacidadMaletero
+  -Traccion traccion
+}
+
+Vehiculo <|-- Coche
+
 Vehiculo ..|> Valorable
 
 Vehiculo o-- Persona : propietario

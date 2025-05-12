@@ -7,7 +7,7 @@ CHECKLIST
 - Crear Persona - Hecho
 - Crear Vehiculo - Hecho
 - Relacion VehiculoPersona - Hecho
-- Crear Coche
+- Crear Coche - Hecho
 - Crear subtipos de coche
 - Crear moto y subtipos
 - Crear Camion
