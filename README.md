@@ -3,7 +3,7 @@ CHECKLIST
 - Iniciar Repositorio - Hecho
 - Estructurar archivos del proyecto - Hecho
 - Crear Enums - Hecho
-- Añadir Valorable -
+- Añadir Valorable - Hecho
 - Crear Persona - 
 - Crear Vehiculo - 
 - Relacion VehiculoPersona - 

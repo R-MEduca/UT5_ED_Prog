@@ -29,4 +29,8 @@ MANUAL
 AUTOMATICA
 }
 
+' ===Interfaz===
+interface Valorable {
++double calcularDepreciacion()
+}
 @enduml
