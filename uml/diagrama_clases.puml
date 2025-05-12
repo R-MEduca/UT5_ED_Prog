@@ -1,3 +1,32 @@
 @startuml
 
+' === Enumeraciones ===
+enum Estado {
+DISPONIBLE
+VENDIDO
+}
+
+enum TipoCombustible {
+GASOLINA
+DIESEL
+HIBRIDO
+ELECTRICO
+}
+
+enum Traccion {
+DELANTERA
+TRASERA 4X4
+}
+
+enum NivelConfort{
+BASICO
+MEDIO
+PREMIUM
+}
+
+enum TipoTransmision{
+MANUAL
+AUTOMATICA
+}
+
 @enduml
