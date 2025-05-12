@@ -4,8 +4,8 @@ CHECKLIST
 - Estructurar archivos del proyecto - Hecho
 - Crear Enums - Hecho
 - Añadir Valorable - Hecho
-- Crear Persona - 
-- Crear Vehiculo - 
+- Crear Persona - Hecho
+- Crear Vehiculo - Hecho
 - Relacion VehiculoPersona - 
 - Crear Coche
 - Crear subtipos de coche
