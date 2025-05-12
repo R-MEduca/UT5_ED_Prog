@@ -86,6 +86,27 @@ class Deportivo {
   -boolean tieneModoPista
 }
 
+' === Clase Moto y subtipos ===
+class Moto {
+  -int cilindrada
+  -int peso
+  -double alturaAsiento
+  -TipoTransmision tipoTransmision
+}
+
+class Scooter {
+  -int espacioBajoAsiento
+}
+
+class MotoDeportiva {
+  -double velocidadMaxima
+  -boolean tieneQuickShifter
+}
+
+Vehiculo <|-- Moto
+Moto <|-- Scooter
+Moto <|-- MotoDeportiva
+
 Coche <|-- Sedan
 Coche <|-- SUV
 Coche <|-- Deportivo
