@@ -6,7 +6,7 @@ CHECKLIST
 - Añadir Valorable - Hecho
 - Crear Persona - Hecho
 - Crear Vehiculo - Hecho
-- Relacion VehiculoPersona - 
+- Relacion VehiculoPersona - Hecho
 - Crear Coche
 - Crear subtipos de coche
 - Crear moto y subtipos

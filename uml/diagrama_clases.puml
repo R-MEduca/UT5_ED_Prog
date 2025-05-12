@@ -63,5 +63,8 @@ abstract class Vehiculo {
 
 Vehiculo ..|> Valorable
 
+Vehiculo o-- Persona : propietario
+
+
 
 @enduml
