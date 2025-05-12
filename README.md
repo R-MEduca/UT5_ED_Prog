@@ -11,6 +11,8 @@ CHECKLIST
 - Crear subtipos de coche - Hecho
 - Crear moto y subtipos - Hecho
 - Crear Camion - Hecho
-- Herencias y relacione UML
-- Generar .svg
-- Ponerlo en el README
+- Herencias y relaciones UML - Comprobado
+- Generar .svg - Hecho
+- Ponerlo en el README - Hecho
+
+![Diagrama de clases](uml/diagrama_clases.svg)
